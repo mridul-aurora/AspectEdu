@@ -1,0 +1,22 @@
+{
+  "version": "9.6.0",
+  "release_date": "29/09/2026",
+  "required_manual_update": false,
+  "min": "9.2.0",
+  "migrations": [
+    "database/migrations/2024_06_01_000001_create_oauth_device_codes_table.php",
+    "database/migrations/2026_03_27_072635_add_momo_pay_as_module.php",
+    "database/migrations/2026_05_22_055452_update_outh_clients_table.php",
+    "database/migrations/2026_06_22_000001_ensure_storage_fields_on_sm_backups_table.php",
+    "database/migrations/2026_06_22_000002_fix_duplicate_mark_sheet_report_menus.php",
+    "database/migrations/2026_06_24_000001_restore_mark_sheet_report_menu.php",
+    "database/migrations/2026_06_25_000001_fix_passport_client_grant_types.php",
+    "database/migrations/2026_06_25_000002_fix_university_menu_routes.php",
+    "database/migrations/2026_07_23_112206_dedupe_mark_sheet_report_menus.php",
+    "database/migrations/2026_07_26_000001_fix_mark_sheet_report_menu_parent.php",
+    "database/migrations/2026_08_20_000001_add_teacher_evaluation_teacher_menu.php"
+  ],
+  "url": "https://spondonit.com/contact",
+  "notes": "This is a mostly bug fixing update."
+}
+

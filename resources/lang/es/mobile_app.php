@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'QR Code Attendance' => 'Asistencia por código QR',
+    'Subject-wise attendance' => 'Asistencia por asignatura',
+    'Scanner unavailable. Restart app.' => 'Escáner no disponible. Reinicie la aplicación.',
+    'Camera permission required' => 'Se requiere permiso para usar la cámara',
+    'Scan Your ID Card QR Code / Barcode' => 'Escanee el código QR / código de barras de su tarjeta de identificación',
+    'ID CARD' => 'TARJETA DE IDENTIFICACIÓN',
+    'QR Code Attendance Setting' => 'Configuración de asistencia por código QR',
+    'AUTO ATTENDANCE' => 'ASISTENCIA AUTOMÁTICA',
+    'Enabled' => 'Activado',
+    'Disabled' => 'Desactivado',
+    'SELECT CAMERA' => 'SELECCIONAR CÁMARA',
+    'Primary' => 'Principal',
+    'Secondary' => 'Secundaria',
+    'Front' => 'Frontal',
+    'Choose camera, then press Save.' => 'Seleccione la cámara y luego pulse Guardar.',
+    'Camera not found' => 'Cámara no encontrada',
+    'Camera selection saved' => 'Selección de cámara guardada',
+    'Select class, section and subject' => 'Seleccione la clase, la sección y la asignatura',
+    'Invalid QR Code' => 'Código QR no válido',
+    'Saved successfully' => 'Guardado correctamente',
+    'Unable to save attendance' => 'No se pudo guardar la asistencia',
+    'Restart app completely after adding scanner plugin' => 'Reinicie completamente la aplicación después de añadir el plugin del escáner',
+    'MARK ATTENDANCE' => 'MARCAR ASISTENCIA',
+    'QR Attendance' => 'Asistencia QR',
+];
